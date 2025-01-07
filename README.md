@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! I am a biologist with a passion for computational biology, structural biology, and comparative genomics. My research primarily focuses on G Protein-Coupled Receptors (GPCRs), delving into their evolution, pharmacology, and pharmacogenomics, to personalize drug design for diverse populations.
 
-<!--
-**RohanNathHERE/RohanNathHERE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Professional Expertise:
+- **Structural Biology**: Specializing in protein structure analysis to support drug discovery and therapeutic design.
+- **Comparative and Evolutionary Genomics**: Investigating genetic variation across species to understand GPCR evolution.
+- **Computational Proficiency**: Expertise in genomic, transcriptomic, and proteomic datasets, leveraging computational tools for insights into personalized medicine.
+- **Protein Domain Annotation**: Analyzing protein domains for functional insights, contributing to therapeutic interventions.
 
-Here are some ideas to get you started:
+## Top Skills:
+- **Computational Biology** • **Bioinformatics** • **Comparative Genomics** • **Structural Biology** • **Pharmacology**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills:
+- **Programming**: Python, R, SQL, Java, C/C++, MATLAB, HTML, CSS, JavaScript (React, Angular), LaTeX, Git, Docker, Kubernetes, AWS, Azure
+- **Computational Biology**: Machine Learning, Genome Annotation, Protein Domain Annotation, Genome/Transcriptome Assembly, Phylogenetic Analysis
+- **Structural Biology**: PyMol, ChimeraX, SAMSON
+- **Pharmacology**: GROMACS
+- **Statistical Analysis**: Samtools, bcftools, bedtools, STAR, DESeq2, etc.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohanNathHERE&show_icons=true&theme=transparent)
