@@ -14,7 +14,6 @@
 - **Computational Biology**: Machine Learning, Genome Annotation, Protein Domain Annotation, Genome/Transcriptome Assembly, Phylogenetic Analysis 🔬
 - **Structural Biology**: PyMol, ChimeraX, SAMSON 🧬
 - **Pharmacology**: GROMACS 💊
-- **Statistical Analysis**: Samtools, bcftools, bedtools, STAR, DESeq2, etc. 📊
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohanNathHERE&show_icons=true)
 
