@@ -1,4 +1,4 @@
-# Hi there! I am a biologist with a passion for computational biology, structural biology, and comparative genomics. My research primarily focuses on G Protein-Coupled Receptors (GPCRs), delving into their evolution, pharmacology, and pharmacogenomics, to personalize drug design for diverse populations. 🌱
+# Hi there! I am a biologist with a passion for computational biology, structural biology, and comparative genomics. My research primarily focuses on G Protein-Coupled Receptors (GPCRs), delving into their evolution, pharmacology, and pharmacogenomics, to personalize drug design for diverse populations.
 
 ## Professional Expertise:
 - **Structural Biology**: Specializing in protein structure analysis to support drug discovery and therapeutic design. 🔬
