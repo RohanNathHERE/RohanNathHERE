@@ -15,6 +15,6 @@
 - **Structural Biology**: PyMol, ChimeraX, SAMSON 🧬
 - **Pharmacology**: GROMACS 💊
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohanNathHERE)](https://github.com/anuraghazra/github-readme-stats)
+[![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohanNathHERE)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanNathHERE&layout=donut-vertical)]
